@@ -19,8 +19,8 @@ Backend Engineer[@ScoreTravel Inc.](https://www.scoretravel.ai/)
 - ⚡  Previously worked at MSCI Inc. in the Index Engineering Team
 
 ## Projects
-- [RateEdge](http://ec2-18-191-188-215.us-east-2.compute.amazonaws.com:8090/v1/swagger-ui/index.html): Optimized Forex Exchange Tool
-- [HRView](https://hrview.onrender.com/docs#overview): Employee Hour Directory API.
+- [RateEdge](http://ec2-18-191-188-215.us-east-2.compute.amazonaws.com:8090/v1/swagger-ui/index.html): Optimized Forex Exchange Tool - Java, SpringBoot, AWS, Docker
+- [HRView](https://hrview.onrender.com/docs#overview): Employee Hour Directory API - Python, FlaskAPI, OAuth
 
 ## 📫 Get in Touch
 parth.shingalaa@gmail.com | [LinkedIn](https://www.linkedin.com/in/shingalaparth/ | [Portfolio](https://parthshingala06.github.io/)
