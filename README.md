@@ -1,4 +1,7 @@
 # Hi, I'm Parth Shingala 👋
+
+As a forward-thinking Software Engineer with over 3 years of experience in Product Development, I excel in creating exceptional digital experiences.
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -10,8 +13,6 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-As a forward-thinking Software Engineer with over 3 years of experience in Product Development, I excel in creating exceptional digital experiences.
-
 Backend Engineer[@ScoreTravel Inc.](https://www.scoretravel.ai/)
 
 - 🔭 I am currently working on Product Development @ScoreTravel
@@ -20,12 +21,6 @@ Backend Engineer[@ScoreTravel Inc.](https://www.scoretravel.ai/)
 ## Projects
 - [RateEdge](http://ec2-18-191-188-215.us-east-2.compute.amazonaws.com:8090/v1/swagger-ui/index.html): Optimized Forex Exchange Tool
 - [HRView](https://hrview.onrender.com/docs#overview): Employee Hour Directory API.
-
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthShingala06&count_private=true&show_icons=true&theme=prussian" width="400">
-<br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthShingala06&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</div>
 
 ## 📫 Get in Touch
 parth.shingalaa@gmail.com | [LinkedIn](https://www.linkedin.com/in/shingalaparth/ | [Portfolio](https://parthshingala06.github.io/)
