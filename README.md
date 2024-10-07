@@ -1,4 +1,5 @@
 # Hi, I'm Parth Shingala 👋
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 I'm a passionate Software Developer with experience in [technologies you use] and a background in [what you do]. I love working on projects that involve [mention your interests].
 
@@ -7,5 +8,4 @@ I'm a passionate Software Developer with experience in [technologies you use] an
 - [Project 2](link to project): Another project worth mentioning.
 
 ## 📫 Get in Touch
-- Email: youremail@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+parth.shingalaa@gmail.com | [LinkedIn](https://www.linkedin.com/in/shingalaparth/ | [Portfolio](https://parthshingala06.github.io/)
