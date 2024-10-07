@@ -23,4 +23,4 @@ Backend Engineer[@ScoreTravel Inc.](https://www.scoretravel.ai/)
 - [HRView](https://hrview.onrender.com/docs#overview): Employee Hour Directory API - Python, FlaskAPI, OAuth
 
 ## 📫 Get in Touch
-parth.shingalaa@gmail.com | [LinkedIn](https://www.linkedin.com/in/shingalaparth/ | [Portfolio](https://parthshingala06.github.io/)
+parth.shingalaa@gmail.com | [LinkedIn](https://www.linkedin.com/in/shingalaparth/) | [Portfolio](https://parthshingala06.github.io/)
