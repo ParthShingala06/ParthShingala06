@@ -15,7 +15,7 @@ As a forward-thinking Software Engineer with over 3 years of experience in Produ
 
 Backend Engineer[@ScoreTravel Inc.](https://www.scoretravel.ai/)
 
-- 🔭 I am currently working on Base Product Development @C3.AI
+- 🔭 I am currently working on Base Product Development @C3.ai
 - ⚡  Previously worked at MSCI Inc. in the Index Engineering Team
 
 ## Projects
